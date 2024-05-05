@@ -1,0 +1,16 @@
+[2024-05-04 21:18:38,415: WARNING/MainProcess] /Users/omsinha/Documents/ScalerProject/env_django/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-05-04 21:18:38,420: INFO/MainProcess] Connected to redis://localhost:6379//
+[2024-05-04 21:18:38,420: WARNING/MainProcess] /Users/omsinha/Documents/ScalerProject/env_django/lib/python3.11/site-packages/celery/worker/consumer/consumer.py:508: CPendingDeprecationWarning: The broker_connection_retry configuration setting will no longer determine
+whether broker connection retries are made during startup in Celery 6.0 and above.
+If you wish to retain the existing behavior for retrying connections on startup,
+you should set broker_connection_retry_on_startup to True.
+  warnings.warn(
+
+[2024-05-04 21:18:38,423: INFO/MainProcess] mingle: searching for neighbors
+[2024-05-04 21:18:39,430: INFO/MainProcess] mingle: all alone
+[2024-05-04 21:18:39,446: INFO/MainProcess] celery@192.168.1.5 ready.
